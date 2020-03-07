@@ -1,2 +1,1 @@
-# -nstagram.com
 İnstagram.com
